@@ -28,7 +28,6 @@ Teleroid/
 │   ├── location.py
 │   └── waifu.py
 ├── core/
-├── utils/
 ├── requirements.txt
 └── README.md
 ```
